@@ -1,0 +1,107 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Logged into Application with valid credentials in web View",
+    "uid" : "433deb3ff5acb70c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1648462858163,
+      "stop" : 1648462882037,
+      "duration" : 23874
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  }, {
+    "name" : "Search and Select Tour plan in web View",
+    "uid" : "51deb9d327391562",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1648462882040,
+      "stop" : 1648462895506,
+      "duration" : 13466
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  }, {
+    "name" : "Logout from application in web View",
+    "uid" : "3632e094ac69fa2d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1648462895510,
+      "stop" : 1648462955153,
+      "duration" : 59643
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  }, {
+    "name" : "Logged into Application with valid credentials in mobile View",
+    "uid" : "6fc178d54215ed87",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648463052155,
+      "stop" : 1648463098174,
+      "duration" : 46019
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  }, {
+    "name" : "Search and Select Tour plan in mobile View",
+    "uid" : "389ca99eff658267",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648463098181,
+      "stop" : 1648463130303,
+      "duration" : 32122
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  }, {
+    "name" : "Logout from application in mobile View",
+    "uid" : "dd814949fd8ad304",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648463130305,
+      "stop" : 1648463150474,
+      "duration" : 20169
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+  } ],
+  "name" : "behaviors"
+}

@@ -1,0 +1,61 @@
+[ {
+  "uid" : "3632e094ac69fa2d",
+  "name" : "Logout from application in web View",
+  "time" : {
+    "start" : 1648462895510,
+    "stop" : 1648462955153,
+    "duration" : 59643
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6fc178d54215ed87",
+  "name" : "Logged into Application with valid credentials in mobile View",
+  "time" : {
+    "start" : 1648463052155,
+    "stop" : 1648463098174,
+    "duration" : 46019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51deb9d327391562",
+  "name" : "Search and Select Tour plan in web View",
+  "time" : {
+    "start" : 1648462882040,
+    "stop" : 1648462895506,
+    "duration" : 13466
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "433deb3ff5acb70c",
+  "name" : "Logged into Application with valid credentials in web View",
+  "time" : {
+    "start" : 1648462858163,
+    "stop" : 1648462882037,
+    "duration" : 23874
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dd814949fd8ad304",
+  "name" : "Logout from application in mobile View",
+  "time" : {
+    "start" : 1648463130305,
+    "stop" : 1648463150474,
+    "duration" : 20169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "389ca99eff658267",
+  "name" : "Search and Select Tour plan in mobile View",
+  "time" : {
+    "start" : 1648463098181,
+    "stop" : 1648463130303,
+    "duration" : 32122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

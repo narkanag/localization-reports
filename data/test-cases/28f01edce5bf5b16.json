@@ -1,0 +1,104 @@
+{
+  "uid" : "28f01edce5bf5b16",
+  "name" : "Logged into Application with valid credentials in web View",
+  "fullName" : "Search and select Tour  - test suite.Logged into Application with valid credentials in web View",
+  "historyId" : "7a52f1cee91a36d375b7159ed8c58a5d",
+  "time" : {
+    "start" : 1648462759826,
+    "stop" : 1648462784823,
+    "duration" : 24997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:114:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:241:14)\n                    at Header.navigateToLoginPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:15:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:31:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:114:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:241:14)\n                    at Header.navigateToLoginPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:15:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:31:24)",
+    "steps" : [ {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1648462769448,
+        "stop" : 1648462769448,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "969d394f1afb71f0",
+      "name" : "Screenshot",
+      "source" : "969d394f1afb71f0.png",
+      "type" : "image/png",
+      "size" : 455981
+    }, {
+      "uid" : "a1df4254e90585f6",
+      "name" : "Execution video",
+      "source" : "a1df4254e90585f6.mp4",
+      "type" : "video/mp4",
+      "size" : 25212
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logged into Application with valid credentials in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  }, {
+    "name" : "browserVersion",
+    "value" : "99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28f01edce5bf5b16.json",
+  "parameterValues" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+}
