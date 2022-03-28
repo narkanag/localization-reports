@@ -2,20 +2,38 @@
   "69ac4498195adbcff74080de4fa7fe26" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "69a39fc4580c1d47",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+      "uid" : "7784d64b8f99ee92",
+      "status" : "passed",
       "time" : {
-        "start" : 1648465315412,
-        "stop" : 1648465329333,
-        "duration" : 13921
+        "start" : 1648466777826,
+        "stop" : 1648466808440,
+        "duration" : 30614
+      }
+    } ]
+  },
+  "7a52f1cee91a36d375b7159ed8c58a5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70575157e5adc63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648466752924,
+        "stop" : 1648466777824,
+        "duration" : 24900
       }
     } ]
   },
@@ -29,51 +47,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aadbbbfe0d073d0e",
+      "uid" : "1152f8129702848b",
       "status" : "passed",
       "time" : {
-        "start" : 1648465514823,
-        "stop" : 1648465564761,
-        "duration" : 49938
-      }
-    } ]
-  },
-  "7a52f1cee91a36d375b7159ed8c58a5d" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d272e148fe865704",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
-      "time" : {
-        "start" : 1648465291092,
-        "stop" : 1648465315406,
-        "duration" : 24314
-      }
-    } ]
-  },
-  "1a7c7fdf7688fa117e63fad3698dcf4b" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "43a3601591d1540c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648465564764,
-        "stop" : 1648465598319,
-        "duration" : 33555
+        "start" : 1648466924702,
+        "stop" : 1648466974410,
+        "duration" : 49708
       }
     } ]
   },
@@ -87,32 +66,50 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dffb842d194a9110",
+      "uid" : "6f7a3932db19e41e",
       "status" : "passed",
       "time" : {
-        "start" : 1648465598323,
-        "stop" : 1648465617738,
-        "duration" : 19415
+        "start" : 1648467006038,
+        "stop" : 1648467026243,
+        "duration" : 20205
+      }
+    } ]
+  },
+  "1a7c7fdf7688fa117e63fad3698dcf4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a1b622b14cbe3a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648466974421,
+        "stop" : 1648467006033,
+        "duration" : 31612
       }
     } ]
   },
   "fd217ef9b289e39d964905daffa59edd" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f9c78315b2ec660a",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+      "uid" : "b31ee32cd4208965",
+      "status" : "passed",
       "time" : {
-        "start" : 1648465329337,
-        "stop" : 1648465389029,
-        "duration" : 59692
+        "start" : 1648466808449,
+        "stop" : 1648466823861,
+        "duration" : 15412
       }
     } ]
   }
