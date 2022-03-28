@@ -1,0 +1,143 @@
+{
+  "uid" : "f9c78315b2ec660a",
+  "name" : "Logout from application in web View",
+  "fullName" : "Search and select Tour  - test suite.Logout from application in web View",
+  "historyId" : "fd217ef9b289e39d964905daffa59edd",
+  "time" : {
+    "start" : 1648465329337,
+    "stop" : 1648465389029,
+    "duration" : 59692
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:114:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:241:14)\n                    at Header.logout (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:38:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:51:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:114:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:241:14)\n                    at Header.logout (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:38:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:51:24)",
+    "steps" : [ {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1648465329540,
+        "stop" : 1648465329540,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1648465333543,
+        "stop" : 1648465333543,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "cc0395dcaae9db83",
+      "name" : "Screenshot",
+      "source" : "cc0395dcaae9db83.png",
+      "type" : "image/png",
+      "size" : 144370
+    }, {
+      "uid" : "ec94f967702ea4c3",
+      "name" : "Screenshot",
+      "source" : "ec94f967702ea4c3.png",
+      "type" : "image/png",
+      "size" : 144558
+    }, {
+      "uid" : "2362a79b8fbe7801",
+      "name" : "Execution video",
+      "source" : "2362a79b8fbe7801.mp4",
+      "type" : "video/mp4",
+      "size" : 20932
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "High"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout from application in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  }, {
+    "name" : "browserVersion",
+    "value" : "99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a00e638a5f11df1a",
+      "status" : "broken",
+      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+      "time" : {
+        "start" : 1648465231678,
+        "stop" : 1648465291072,
+        "duration" : 59394
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f9c78315b2ec660a.json",
+  "parameterValues" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+}

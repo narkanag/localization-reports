@@ -6,13 +6,13 @@
       "name" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
       "children" : [ {
         "name" : "Logged into Application with valid credentials in web View",
-        "uid" : "433deb3ff5acb70c",
+        "uid" : "d272e148fe865704",
         "parentUid" : "b1764495a78cb57963a67face249c71e",
         "status" : "broken",
         "time" : {
-          "start" : 1648462858163,
-          "stop" : 1648462882037,
-          "duration" : 23874
+          "start" : 1648465291092,
+          "stop" : 1648465315406,
+          "duration" : 24314
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
         "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
       }, {
         "name" : "Search and Select Tour plan in web View",
-        "uid" : "51deb9d327391562",
+        "uid" : "69a39fc4580c1d47",
         "parentUid" : "b1764495a78cb57963a67face249c71e",
         "status" : "broken",
         "time" : {
-          "start" : 1648462882040,
-          "stop" : 1648462895506,
-          "duration" : 13466
+          "start" : 1648465315412,
+          "stop" : 1648465329333,
+          "duration" : 13921
         },
         "flaky" : false,
         "newFailed" : false,
@@ -40,13 +40,13 @@
         "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
       }, {
         "name" : "Logout from application in web View",
-        "uid" : "3632e094ac69fa2d",
+        "uid" : "f9c78315b2ec660a",
         "parentUid" : "b1764495a78cb57963a67face249c71e",
         "status" : "broken",
         "time" : {
-          "start" : 1648462895510,
-          "stop" : 1648462955153,
-          "duration" : 59643
+          "start" : 1648465329337,
+          "stop" : 1648465389029,
+          "duration" : 59692
         },
         "flaky" : false,
         "newFailed" : false,

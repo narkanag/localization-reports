@@ -9,33 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "51deb9d327391562",
+      "uid" : "69a39fc4580c1d47",
       "status" : "broken",
       "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
       "time" : {
-        "start" : 1648462882040,
-        "stop" : 1648462895506,
-        "duration" : 13466
-      }
-    } ]
-  },
-  "7a52f1cee91a36d375b7159ed8c58a5d" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "433deb3ff5acb70c",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
-      "time" : {
-        "start" : 1648462858163,
-        "stop" : 1648462882037,
-        "duration" : 23874
+        "start" : 1648465315412,
+        "stop" : 1648465329333,
+        "duration" : 13921
       }
     } ]
   },
@@ -49,12 +29,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6fc178d54215ed87",
+      "uid" : "aadbbbfe0d073d0e",
       "status" : "passed",
       "time" : {
-        "start" : 1648463052155,
-        "stop" : 1648463098174,
-        "duration" : 46019
+        "start" : 1648465514823,
+        "stop" : 1648465564761,
+        "duration" : 49938
+      }
+    } ]
+  },
+  "7a52f1cee91a36d375b7159ed8c58a5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d272e148fe865704",
+      "status" : "broken",
+      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
+      "time" : {
+        "start" : 1648465291092,
+        "stop" : 1648465315406,
+        "duration" : 24314
       }
     } ]
   },
@@ -68,12 +68,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "389ca99eff658267",
+      "uid" : "43a3601591d1540c",
       "status" : "passed",
       "time" : {
-        "start" : 1648463098181,
-        "stop" : 1648463130303,
-        "duration" : 32122
+        "start" : 1648465564764,
+        "stop" : 1648465598319,
+        "duration" : 33555
       }
     } ]
   },
@@ -87,12 +87,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dd814949fd8ad304",
+      "uid" : "dffb842d194a9110",
       "status" : "passed",
       "time" : {
-        "start" : 1648463130305,
-        "stop" : 1648463150474,
-        "duration" : 20169
+        "start" : 1648465598323,
+        "stop" : 1648465617738,
+        "duration" : 19415
       }
     } ]
   },
@@ -106,13 +106,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3632e094ac69fa2d",
+      "uid" : "f9c78315b2ec660a",
       "status" : "broken",
       "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=99.0.4844.84)",
       "time" : {
-        "start" : 1648462895510,
-        "stop" : 1648462955153,
-        "duration" : 59643
+        "start" : 1648465329337,
+        "stop" : 1648465389029,
+        "duration" : 59692
       }
     } ]
   }
