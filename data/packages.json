@@ -4,13 +4,13 @@
     "name" : "Search and select Tour  - test suite",
     "children" : [ {
       "name" : "Logged into Application with valid credentials in web View",
-      "uid" : "70575157e5adc63",
+      "uid" : "9831ec32b043a46d",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648466752924,
-        "stop" : 1648466777824,
-        "duration" : 24900
+        "start" : 1648649302006,
+        "stop" : 1648649327881,
+        "duration" : 25875
       },
       "flaky" : false,
       "newFailed" : false,
@@ -18,16 +18,16 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Search and Select Tour plan in web View",
-      "uid" : "7784d64b8f99ee92",
+      "uid" : "e97d8c7e08b81f18",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648466777826,
-        "stop" : 1648466808440,
-        "duration" : 30614
+        "start" : 1648649327905,
+        "stop" : 1648649360385,
+        "duration" : 32480
       },
       "flaky" : false,
       "newFailed" : false,
@@ -35,16 +35,16 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Logout from application in web View",
-      "uid" : "b31ee32cd4208965",
+      "uid" : "9fbaf87fdc4e96f6",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648466808449,
-        "stop" : 1648466823861,
-        "duration" : 15412
+        "start" : 1648649360401,
+        "stop" : 1648649375295,
+        "duration" : 14894
       },
       "flaky" : false,
       "newFailed" : false,
@@ -52,16 +52,16 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Logged into Application with valid credentials in mobile View",
-      "uid" : "1152f8129702848b",
+      "uid" : "587aef42a196ac02",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648466924702,
-        "stop" : 1648466974410,
-        "duration" : 49708
+        "start" : 1648649479865,
+        "stop" : 1648649530616,
+        "duration" : 50751
       },
       "flaky" : false,
       "newFailed" : false,
@@ -69,16 +69,16 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Search and Select Tour plan in mobile View",
-      "uid" : "3a1b622b14cbe3a1",
+      "uid" : "c485951363f60a96",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648466974421,
-        "stop" : 1648467006033,
-        "duration" : 31612
+        "start" : 1648649530624,
+        "stop" : 1648649563401,
+        "duration" : 32777
       },
       "flaky" : false,
       "newFailed" : false,
@@ -86,16 +86,16 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Logout from application in mobile View",
-      "uid" : "6f7a3932db19e41e",
+      "uid" : "e1fee9b299c81d67",
       "parentUid" : "1b64db3edb74671faa4439c9153c48e4",
       "status" : "passed",
       "time" : {
-        "start" : 1648467006038,
-        "stop" : 1648467026243,
-        "duration" : 20205
+        "start" : 1648649563404,
+        "stop" : 1648649584455,
+        "duration" : 21051
       },
       "flaky" : false,
       "newFailed" : false,
@@ -103,7 +103,7 @@
       "newBroken" : false,
       "retriesCount" : 1,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-99.0.4844.84", "99.0.4844.84" ]
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     } ],
     "uid" : "1b64db3edb74671faa4439c9153c48e4"
   } ],

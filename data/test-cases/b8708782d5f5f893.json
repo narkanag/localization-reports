@@ -1,0 +1,373 @@
+{
+  "uid" : "b8708782d5f5f893",
+  "name" : "Search and Select Tour plan in web View",
+  "fullName" : "Search and select Tour  - test suite.Search and Select Tour plan in web View",
+  "historyId" : "f54f727ceec3377ef064054cedb6629e",
+  "time" : {
+    "start" : 1648649253549,
+    "stop" : 1648649286354,
+    "duration" : 32805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, London, Paris...",
+      "time" : {
+        "start" : 1648649254356,
+        "stop" : 1648649254356,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"london\" in text field",
+      "time" : {
+        "start" : 1648649255921,
+        "stop" : 1648649255921,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on London, England",
+      "time" : {
+        "start" : 1648649259065,
+        "stop" : 1648649259065,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1648649264067,
+        "stop" : 1648649264067,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on London Eye Standard Ticket",
+      "time" : {
+        "start" : 1648649264402,
+        "stop" : 1648649264402,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1648649267215,
+        "stop" : 1648649267215,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Check Availability",
+      "time" : {
+        "start" : 1648649269614,
+        "stop" : 1648649269614,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on 30\n                    ₹2,741",
+      "time" : {
+        "start" : 1648649270122,
+        "stop" : 1648649270122,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1648649275123,
+        "stop" : 1648649275123,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Apply",
+      "time" : {
+        "start" : 1648649275511,
+        "stop" : 1648649275511,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1648649280511,
+        "stop" : 1648649280511,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on 3:15 PM",
+      "time" : {
+        "start" : 1648649280869,
+        "stop" : 1648649280869,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Book Now",
+      "time" : {
+        "start" : 1648649281292,
+        "stop" : 1648649281292,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1648649286293,
+        "stop" : 1648649286293,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "losed current window",
+      "time" : {
+        "start" : 1648649286326,
+        "stop" : 1648649286326,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "81b8a933ff1c2c44",
+      "name" : "Screenshot",
+      "source" : "81b8a933ff1c2c44.png",
+      "type" : "image/png",
+      "size" : 1172847
+    }, {
+      "uid" : "210c2515de6a50a2",
+      "name" : "Screenshot",
+      "source" : "210c2515de6a50a2.png",
+      "type" : "image/png",
+      "size" : 1166208
+    }, {
+      "uid" : "bd3e6188e6ec5c41",
+      "name" : "Screenshot",
+      "source" : "bd3e6188e6ec5c41.png",
+      "type" : "image/png",
+      "size" : 1166220
+    }, {
+      "uid" : "45caca5d96deebc5",
+      "name" : "Screenshot",
+      "source" : "45caca5d96deebc5.png",
+      "type" : "image/png",
+      "size" : 1166780
+    }, {
+      "uid" : "567246a61066a8b3",
+      "name" : "Screenshot",
+      "source" : "567246a61066a8b3.png",
+      "type" : "image/png",
+      "size" : 365481
+    }, {
+      "uid" : "15adad370f5aca56",
+      "name" : "Screenshot",
+      "source" : "15adad370f5aca56.png",
+      "type" : "image/png",
+      "size" : 456778
+    }, {
+      "uid" : "8f91977a4b4b4adb",
+      "name" : "Screenshot",
+      "source" : "8f91977a4b4b4adb.png",
+      "type" : "image/png",
+      "size" : 183067
+    }, {
+      "uid" : "8a00d5c31d6d6a4a",
+      "name" : "Screenshot",
+      "source" : "8a00d5c31d6d6a4a.png",
+      "type" : "image/png",
+      "size" : 56557
+    }, {
+      "uid" : "b4d9491991f208c1",
+      "name" : "Screenshot",
+      "source" : "b4d9491991f208c1.png",
+      "type" : "image/png",
+      "size" : 33589
+    }, {
+      "uid" : "e23621db6ddc6b1d",
+      "name" : "Screenshot",
+      "source" : "e23621db6ddc6b1d.png",
+      "type" : "image/png",
+      "size" : 36924
+    }, {
+      "uid" : "f6cf2d71dac86822",
+      "name" : "Screenshot",
+      "source" : "f6cf2d71dac86822.png",
+      "type" : "image/png",
+      "size" : 35607
+    }, {
+      "uid" : "77e7a8b2268adfd6",
+      "name" : "Execution video",
+      "source" : "77e7a8b2268adfd6.mp4",
+      "type" : "video/mp4",
+      "size" : 466902
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 15,
+    "attachmentsCount" : 12,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "High"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search and Select Tour plan in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8708782d5f5f893.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}
