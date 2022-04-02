@@ -1,12 +1,12 @@
 {
-  "uid" : "b9990664046bce7a",
-  "name" : "Verify and validate Viator application content in'English (Canada)'",
-  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'English (Canada)'",
-  "historyId" : "32627d22f4cad983a628b643ef2c258e",
+  "uid" : "548c145b0fe225e7",
+  "name" : "Verify and validate Viator application content in'Español (Chile)'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'Español (Chile)'",
+  "historyId" : "993fcad9a61ae1c400b10d1648ab27f0",
   "time" : {
-    "start" : 1648836764957,
-    "stop" : 1648836772408,
-    "duration" : 7451
+    "start" : 1648880244420,
+    "stop" : 1648880251091,
+    "duration" : 6671
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,8 +23,8 @@
     "steps" : [ {
       "name" : "current Window set to  : 1200, 900.",
       "time" : {
-        "start" : 1648836765520,
-        "stop" : 1648836765520,
+        "start" : 1648880244989,
+        "stop" : 1648880244989,
         "duration" : 0
       },
       "status" : "passed",
@@ -38,8 +38,8 @@
     }, {
       "name" : "Performed click operation on EN",
       "time" : {
-        "start" : 1648836767884,
-        "stop" : 1648836767884,
+        "start" : 1648880247004,
+        "stop" : 1648880247004,
         "duration" : 0
       },
       "status" : "passed",
@@ -51,10 +51,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "Performed click operation on English (Canada)",
+      "name" : "Performed click operation on Español (Chile)",
       "time" : {
-        "start" : 1648836770476,
-        "stop" : 1648836770476,
+        "start" : 1648880249711,
+        "stop" : 1648880249711,
         "duration" : 0
       },
       "status" : "passed",
@@ -66,10 +66,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Find amazing things to do.\n                    Anytime, anywhere.",
+      "name" : "inner text of the DOM-element is : Descubra cosas que hacer increíbles.\n                    En cualquier momento y lugar.",
       "time" : {
-        "start" : 1648836771234,
-        "stop" : 1648836771234,
+        "start" : 1648880250369,
+        "stop" : 1648880250369,
         "duration" : 0
       },
       "status" : "passed",
@@ -81,10 +81,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Why book with Viator?",
+      "name" : "inner text of the DOM-element is : ¿Por qué reservar con Viator?",
       "time" : {
-        "start" : 1648836771333,
-        "stop" : 1648836771333,
+        "start" : 1648880250460,
+        "stop" : 1648880250460,
         "duration" : 0
       },
       "status" : "passed",
@@ -96,10 +96,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Ultimate flexibility",
+      "name" : "inner text of the DOM-element is : Máxima flexibilidad",
       "time" : {
-        "start" : 1648836771518,
-        "stop" : 1648836771518,
+        "start" : 1648880250534,
+        "stop" : 1648880250534,
         "duration" : 0
       },
       "status" : "passed",
@@ -111,10 +111,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : You’re in control, with free cancellation and payment options to satisfy any plan or budget.",
+      "name" : "inner text of the DOM-element is : Usted tiene el control; ofrecemos cancelación gratuita y opciones de pago que se adaptan a cualquier plan o bolsillo.",
       "time" : {
-        "start" : 1648836771632,
-        "stop" : 1648836771632,
+        "start" : 1648880250622,
+        "stop" : 1648880250622,
         "duration" : 0
       },
       "status" : "passed",
@@ -126,10 +126,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Memorable experiences",
+      "name" : "inner text of the DOM-element is : Experiencias inolvidables",
       "time" : {
-        "start" : 1648836771881,
-        "stop" : 1648836771881,
+        "start" : 1648880250689,
+        "stop" : 1648880250689,
         "duration" : 0
       },
       "status" : "passed",
@@ -141,10 +141,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Browse and book tours and activities so incredible, you’ll want to tell your friends.",
+      "name" : "inner text of the DOM-element is : Busque y reserve visitas guiadas y actividades tan increíbles que no podrá esperar a contárselas a sus amigos.",
       "time" : {
-        "start" : 1648836771985,
-        "stop" : 1648836771985,
+        "start" : 1648880250776,
+        "stop" : 1648880250776,
         "duration" : 0
       },
       "status" : "passed",
@@ -156,10 +156,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Quality at our core",
+      "name" : "inner text of the DOM-element is : La calidad es nuestro objetivo",
       "time" : {
-        "start" : 1648836772081,
-        "stop" : 1648836772081,
+        "start" : 1648880250856,
+        "stop" : 1648880250856,
         "duration" : 0
       },
       "status" : "passed",
@@ -171,10 +171,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : High quality standards. Millions of reviews. A Tripadvisor company.",
+      "name" : "inner text of the DOM-element is : Estándares de calidad estrictos. Millones de opiniones. Una empresa de Tripadvisor.",
       "time" : {
-        "start" : 1648836772203,
-        "stop" : 1648836772203,
+        "start" : 1648880250921,
+        "stop" : 1648880250921,
         "duration" : 0
       },
       "status" : "passed",
@@ -186,10 +186,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : Award-winning support",
+      "name" : "inner text of the DOM-element is : Servicio de atención al cliente galardonado",
       "time" : {
-        "start" : 1648836772288,
-        "stop" : 1648836772288,
+        "start" : 1648880251010,
+        "stop" : 1648880251010,
         "duration" : 0
       },
       "status" : "passed",
@@ -201,10 +201,10 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     }, {
-      "name" : "inner text of the DOM-element is : New price? New plan? No problem. We’re here to help, 24/7.",
+      "name" : "inner text of the DOM-element is : ¿Ha cambiado el precio? ¿Han cambiado los planes? No se preocupe. Estamos aquí para ayudarle las 24 horas del día, los 7 días de la semana.",
       "time" : {
-        "start" : 1648836772407,
-        "stop" : 1648836772407,
+        "start" : 1648880251091,
+        "stop" : 1648880251091,
         "duration" : 0
       },
       "status" : "passed",
@@ -217,35 +217,35 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "202e28f9ad55aed8",
+      "uid" : "15e95d221ab82a30",
       "name" : "Screenshot",
-      "source" : "202e28f9ad55aed8.png",
+      "source" : "15e95d221ab82a30.png",
       "type" : "image/png",
-      "size" : 879961
+      "size" : 879669
     }, {
-      "uid" : "3c2f16f2bca61191",
+      "uid" : "e2b52055b32ecaa1",
       "name" : "Screenshot",
-      "source" : "3c2f16f2bca61191.png",
+      "source" : "e2b52055b32ecaa1.png",
       "type" : "image/png",
       "size" : 1374818
     }, {
-      "uid" : "fd7d27a68575559d",
+      "uid" : "bfd8d867d30c2a89",
       "name" : "Screenshot",
-      "source" : "fd7d27a68575559d.png",
+      "source" : "bfd8d867d30c2a89.png",
       "type" : "image/png",
       "size" : 1099428
     }, {
-      "uid" : "89d0ca72c2fa05e7",
+      "uid" : "ea0600011aa7b762",
       "name" : "Screenshot",
-      "source" : "89d0ca72c2fa05e7.png",
+      "source" : "ea0600011aa7b762.png",
       "type" : "image/png",
-      "size" : 1374611
+      "size" : 933500
     }, {
-      "uid" : "4abd419dc94a6507",
+      "uid" : "b1cd6a7fc762a84f",
       "name" : "Execution video",
-      "source" : "4abd419dc94a6507.mp4",
+      "source" : "b1cd6a7fc762a84f.mp4",
       "type" : "video/mp4",
-      "size" : 152476
+      "size" : 158170
     } ],
     "parameters" : [ ],
     "stepsCount" : 13,
@@ -256,19 +256,19 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "bannerText",
-    "value" : "Why book with Viator?"
+    "value" : "¿Por qué reservar con Viator?"
   }, {
     "name" : "des",
-    "value" : "Browse and book tours and activities so incredible, you’ll want to tell your friends."
+    "value" : "Busque y reserve visitas guiadas y actividades tan increíbles que no podrá esperar a contárselas a sus amigos."
   }, {
     "name" : "des",
-    "value" : "High quality standards. Millions of reviews. A Tripadvisor company."
+    "value" : "Estándares de calidad estrictos. Millones de opiniones. Una empresa de Tripadvisor."
   }, {
     "name" : "des",
-    "value" : "New price? New plan? No problem. We’re here to help, 24/7."
+    "value" : "Usted tiene el control; ofrecemos cancelación gratuita y opciones de pago que se adaptan a cualquier plan o bolsillo."
   }, {
     "name" : "des",
-    "value" : "You’re in control, with free cancellation and payment options to satisfy any plan or budget."
+    "value" : "¿Ha cambiado el precio? ¿Han cambiado los planes? No se preocupe. Estamos aquí para ayudarle las 24 horas del día, los 7 días de la semana."
   }, {
     "name" : "framework",
     "value" : "wdio"
@@ -277,22 +277,22 @@
     "value" : "javascript"
   }, {
     "name" : "searchTitle",
-    "value" : "Find amazing things to do.Anytime, anywhere."
+    "value" : "Descubra cosas que hacer increíbles.En cualquier momento y lugar."
   }, {
     "name" : "thread",
     "value" : "0-0"
   }, {
     "name" : "title",
-    "value" : "Award-winning support"
+    "value" : "Experiencias inolvidables"
   }, {
     "name" : "title",
-    "value" : "Memorable experiences"
+    "value" : "La calidad es nuestro objetivo"
   }, {
     "name" : "title",
-    "value" : "Quality at our core"
+    "value" : "Máxima flexibilidad"
   }, {
     "name" : "title",
-    "value" : "Ultimate flexibility"
+    "value" : "Servicio de atención al cliente galardonado"
   }, {
     "name" : "suite",
     "value" : "Validate Content in Welcome page - Localization"
@@ -301,7 +301,7 @@
     "value" : "Validate Content in Welcome page - Localization"
   }, {
     "name" : "testMethod",
-    "value" : "Verify and validate Viator application content in'English (Canada)'"
+    "value" : "Verify and validate Viator application content in'Español (Chile)'"
   }, {
     "name" : "package",
     "value" : "Validate Content in Welcome page - Localization"
@@ -325,6 +325,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b9990664046bce7a.json",
+  "source" : "548c145b0fe225e7.json",
   "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
 }

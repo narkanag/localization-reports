@@ -5,9 +5,9 @@
   "values" : [ "https://www.viator.com/" ],
   "name" : "APPLICATION URL"
 }, {
-  "values" : [ "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz" ],
+  "values" : [ "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz" ],
   "name" : "CPU"
 }, {
-  "values" : [ "fv-az324-827" ],
+  "values" : [ "fv-az459-791" ],
   "name" : "HOSTNAME"
 } ]

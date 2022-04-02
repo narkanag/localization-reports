@@ -1,12 +1,12 @@
 {
-  "uid" : "4726ff16e1b64961",
+  "uid" : "fc491a1c8b7f457f",
   "name" : "Verify and validate Viator application content in'Español (Argentina)'",
   "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'Español (Argentina)'",
   "historyId" : "80f0c6ec25e9424336c3d7b861ae0015",
   "time" : {
-    "start" : 1648836772421,
-    "stop" : 1648836779534,
-    "duration" : 7113
+    "start" : 1648880237102,
+    "stop" : 1648880244411,
+    "duration" : 7309
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,8 +23,8 @@
     "steps" : [ {
       "name" : "current Window set to  : 1200, 900.",
       "time" : {
-        "start" : 1648836772944,
-        "stop" : 1648836772944,
+        "start" : 1648880237584,
+        "stop" : 1648880237584,
         "duration" : 0
       },
       "status" : "passed",
@@ -38,8 +38,8 @@
     }, {
       "name" : "Performed click operation on EN",
       "time" : {
-        "start" : 1648836775616,
-        "stop" : 1648836775616,
+        "start" : 1648880240218,
+        "stop" : 1648880240218,
         "duration" : 0
       },
       "status" : "passed",
@@ -53,8 +53,8 @@
     }, {
       "name" : "Performed click operation on Español (Argentina)",
       "time" : {
-        "start" : 1648836777734,
-        "stop" : 1648836777734,
+        "start" : 1648880243036,
+        "stop" : 1648880243036,
         "duration" : 0
       },
       "status" : "passed",
@@ -68,8 +68,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Descubra cosas que hacer increíbles.\n                    En cualquier momento y lugar.",
       "time" : {
-        "start" : 1648836778479,
-        "stop" : 1648836778479,
+        "start" : 1648880243652,
+        "stop" : 1648880243652,
         "duration" : 0
       },
       "status" : "passed",
@@ -83,8 +83,8 @@
     }, {
       "name" : "inner text of the DOM-element is : ¿Por qué reservar con Viator?",
       "time" : {
-        "start" : 1648836778664,
-        "stop" : 1648836778664,
+        "start" : 1648880243745,
+        "stop" : 1648880243745,
         "duration" : 0
       },
       "status" : "passed",
@@ -98,8 +98,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Máxima flexibilidad",
       "time" : {
-        "start" : 1648836778805,
-        "stop" : 1648836778805,
+        "start" : 1648880243822,
+        "stop" : 1648880243822,
         "duration" : 0
       },
       "status" : "passed",
@@ -113,8 +113,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Usted tiene el control; ofrecemos cancelación gratuita y opciones de pago que se adaptan a cualquier plan o bolsillo.",
       "time" : {
-        "start" : 1648836778911,
-        "stop" : 1648836778911,
+        "start" : 1648880243892,
+        "stop" : 1648880243892,
         "duration" : 0
       },
       "status" : "passed",
@@ -128,8 +128,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Experiencias inolvidables",
       "time" : {
-        "start" : 1648836779032,
-        "stop" : 1648836779032,
+        "start" : 1648880243969,
+        "stop" : 1648880243969,
         "duration" : 0
       },
       "status" : "passed",
@@ -143,8 +143,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Busque y reserve visitas guiadas y actividades tan increíbles que no podrá esperar a contárselas a sus amigos.",
       "time" : {
-        "start" : 1648836779121,
-        "stop" : 1648836779121,
+        "start" : 1648880244062,
+        "stop" : 1648880244062,
         "duration" : 0
       },
       "status" : "passed",
@@ -158,8 +158,8 @@
     }, {
       "name" : "inner text of the DOM-element is : La calidad es nuestro objetivo",
       "time" : {
-        "start" : 1648836779226,
-        "stop" : 1648836779226,
+        "start" : 1648880244139,
+        "stop" : 1648880244139,
         "duration" : 0
       },
       "status" : "passed",
@@ -173,8 +173,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Estándares de calidad estrictos. Millones de opiniones. Una empresa de Tripadvisor.",
       "time" : {
-        "start" : 1648836779322,
-        "stop" : 1648836779322,
+        "start" : 1648880244237,
+        "stop" : 1648880244237,
         "duration" : 0
       },
       "status" : "passed",
@@ -188,8 +188,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Servicio de atención al cliente galardonado",
       "time" : {
-        "start" : 1648836779430,
-        "stop" : 1648836779430,
+        "start" : 1648880244312,
+        "stop" : 1648880244312,
         "duration" : 0
       },
       "status" : "passed",
@@ -203,8 +203,8 @@
     }, {
       "name" : "inner text of the DOM-element is : ¿Ha cambiado el precio? ¿Han cambiado los planes? No se preocupe. Estamos aquí para ayudarle las 24 horas del día, los 7 días de la semana.",
       "time" : {
-        "start" : 1648836779533,
-        "stop" : 1648836779533,
+        "start" : 1648880244410,
+        "stop" : 1648880244410,
         "duration" : 0
       },
       "status" : "passed",
@@ -217,35 +217,35 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "9f7959083ad1f2e4",
+      "uid" : "493d42f5fcc76fac",
       "name" : "Screenshot",
-      "source" : "9f7959083ad1f2e4.png",
+      "source" : "493d42f5fcc76fac.png",
       "type" : "image/png",
       "size" : 1321054
     }, {
-      "uid" : "84af214b232b4b32",
+      "uid" : "ac5afc21d104033",
       "name" : "Screenshot",
-      "source" : "84af214b232b4b32.png",
+      "source" : "ac5afc21d104033.png",
       "type" : "image/png",
       "size" : 1374818
     }, {
-      "uid" : "500628613b9ec409",
+      "uid" : "36134e814e490e50",
       "name" : "Screenshot",
-      "source" : "500628613b9ec409.png",
+      "source" : "36134e814e490e50.png",
       "type" : "image/png",
       "size" : 1099428
     }, {
-      "uid" : "ac35393d7895221e",
+      "uid" : "80cae2769be7eac9",
       "name" : "Screenshot",
-      "source" : "ac35393d7895221e.png",
+      "source" : "80cae2769be7eac9.png",
       "type" : "image/png",
       "size" : 933620
     }, {
-      "uid" : "2e444fd6cbbd7399",
+      "uid" : "f7dfdb16074ab289",
       "name" : "Execution video",
-      "source" : "2e444fd6cbbd7399.mp4",
+      "source" : "f7dfdb16074ab289.mp4",
       "type" : "video/mp4",
-      "size" : 157953
+      "size" : 158087
     } ],
     "parameters" : [ ],
     "stepsCount" : 13,
@@ -325,6 +325,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4726ff16e1b64961.json",
+  "source" : "fc491a1c8b7f457f.json",
   "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
 }
