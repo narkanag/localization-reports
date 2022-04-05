@@ -1,50 +1,20 @@
 [ {
-  "uid" : "36fefdbdab4fcee0",
-  "name" : "Verify and validate Viator application content in'Español (Argentina)'",
-  "time" : {
-    "start" : 1649082667435,
-    "stop" : 1649082673640,
-    "duration" : 6205
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4f3127c05b3145c6",
+  "uid" : "162c2bd1a0f078b",
   "name" : "Verify and validate Viator application content in'English'",
   "time" : {
-    "start" : 1649082649019,
-    "stop" : 1649082661055,
-    "duration" : 12036
+    "start" : 1649144594027,
+    "stop" : 1649144606044,
+    "duration" : 12017
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "1e8021ffcd1d93d2",
+  "uid" : "2c772c548a43eba0",
   "name" : "Verify and validate Viator application content in'Português (Brasil)'",
   "time" : {
-    "start" : 1649082680290,
-    "stop" : 1649082686402,
-    "duration" : 6112
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "16dbd701a84849e7",
-  "name" : "Verify and validate Viator application content in'Français (Canada)'",
-  "time" : {
-    "start" : 1649082661067,
-    "stop" : 1649082667426,
-    "duration" : 6359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b8f63604c90440aa",
-  "name" : "Verify and validate Viator application content in'Español (Chile)'",
-  "time" : {
-    "start" : 1649082673650,
-    "stop" : 1649082680282,
-    "duration" : 6632
+    "start" : 1649144606058,
+    "stop" : 1649144613226,
+    "duration" : 7168
   },
   "status" : "passed",
   "severity" : "normal"
