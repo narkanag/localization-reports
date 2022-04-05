@@ -4,10 +4,10 @@
     "uid" : "8215e7bd0f2b4d5bffea2c2b89b2b196",
     "name" : "Validate Content in Welcome page - Localization",
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 2,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
     }
