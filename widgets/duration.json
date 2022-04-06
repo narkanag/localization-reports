@@ -1,21 +1,21 @@
 [ {
-  "uid" : "446486c5c167c695",
-  "name" : "Verify and validate Viator application content in'English'",
-  "time" : {
-    "start" : 1649191898129,
-    "stop" : 1649191917458,
-    "duration" : 19329
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "dd736bd61b8af71c",
+  "uid" : "333fba6590283e7d",
   "name" : "Verify and validate Viator application content in'Português (Brasil)'",
   "time" : {
-    "start" : 1649191917525,
-    "stop" : 1649191935592,
-    "duration" : 18067
+    "start" : 1649214208147,
+    "stop" : 1649214214900,
+    "duration" : 6753
   },
-  "status" : "broken",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d21fc29535cdd7df",
+  "name" : "Verify and validate Viator application content in'English'",
+  "time" : {
+    "start" : 1649214198592,
+    "stop" : 1649214208120,
+    "duration" : 9528
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

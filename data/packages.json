@@ -1,17 +1,16 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "name" : "packages",
   "children" : [ {
     "name" : "Validate Content in Welcome page - Localization",
     "children" : [ {
       "name" : "Verify and validate Viator application content in'English'",
-      "uid" : "446486c5c167c695",
+      "uid" : "d21fc29535cdd7df",
       "parentUid" : "0901b50d3089f1a4882fbdfe18faecbd",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1649191898129,
-        "stop" : 1649191917458,
-        "duration" : 19329
+        "start" : 1649214198592,
+        "stop" : 1649214208120,
+        "duration" : 9528
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,13 +21,13 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
       "name" : "Verify and validate Viator application content in'Português (Brasil)'",
-      "uid" : "dd736bd61b8af71c",
+      "uid" : "333fba6590283e7d",
       "parentUid" : "0901b50d3089f1a4882fbdfe18faecbd",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1649191917525,
-        "stop" : 1649191935592,
-        "duration" : 18067
+        "start" : 1649214208147,
+        "stop" : 1649214214900,
+        "duration" : 6753
       },
       "flaky" : false,
       "newFailed" : false,
@@ -39,5 +38,6 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     } ],
     "uid" : "0901b50d3089f1a4882fbdfe18faecbd"
-  } ]
+  } ],
+  "name" : "packages"
 }
