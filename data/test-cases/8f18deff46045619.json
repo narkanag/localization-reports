@@ -1,12 +1,12 @@
 {
-  "uid" : "d21fc29535cdd7df",
+  "uid" : "8f18deff46045619",
   "name" : "Verify and validate Viator application content in'English'",
   "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'English'",
   "historyId" : "f5cd4cce2c2433940e19050422f7b0ab",
   "time" : {
-    "start" : 1649214198592,
-    "stop" : 1649214208120,
-    "duration" : 9528
+    "start" : 1649215068291,
+    "stop" : 1649215078220,
+    "duration" : 9929
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,9 +23,9 @@
     "steps" : [ {
       "name" : "current Window set to  : 1200, 900.",
       "time" : {
-        "start" : 1649214198811,
-        "stop" : 1649214198811,
-        "duration" : 0
+        "start" : 1649215068519,
+        "stop" : 1649215068520,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -38,8 +38,8 @@
     }, {
       "name" : "Performed click operation on EN",
       "time" : {
-        "start" : 1649214203596,
-        "stop" : 1649214203596,
+        "start" : 1649215072709,
+        "stop" : 1649215072709,
         "duration" : 0
       },
       "status" : "passed",
@@ -53,8 +53,8 @@
     }, {
       "name" : "Performed click operation on English",
       "time" : {
-        "start" : 1649214206043,
-        "stop" : 1649214206043,
+        "start" : 1649215076297,
+        "stop" : 1649215076297,
         "duration" : 0
       },
       "status" : "passed",
@@ -68,8 +68,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Find amazing things to do.\n                    Anytime, anywhere.",
       "time" : {
-        "start" : 1649214206872,
-        "stop" : 1649214206872,
+        "start" : 1649215076950,
+        "stop" : 1649215076950,
         "duration" : 0
       },
       "status" : "passed",
@@ -83,8 +83,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Why book with Viator?",
       "time" : {
-        "start" : 1649214207097,
-        "stop" : 1649214207097,
+        "start" : 1649215077087,
+        "stop" : 1649215077087,
         "duration" : 0
       },
       "status" : "passed",
@@ -98,8 +98,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Ultimate flexibility",
       "time" : {
-        "start" : 1649214207276,
-        "stop" : 1649214207276,
+        "start" : 1649215077256,
+        "stop" : 1649215077256,
         "duration" : 0
       },
       "status" : "passed",
@@ -113,8 +113,8 @@
     }, {
       "name" : "inner text of the DOM-element is : You’re in control, with free cancellation and payment options to satisfy any plan or budget.",
       "time" : {
-        "start" : 1649214207446,
-        "stop" : 1649214207446,
+        "start" : 1649215077395,
+        "stop" : 1649215077395,
         "duration" : 0
       },
       "status" : "passed",
@@ -128,8 +128,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Memorable experiences",
       "time" : {
-        "start" : 1649214207566,
-        "stop" : 1649214207566,
+        "start" : 1649215077496,
+        "stop" : 1649215077496,
         "duration" : 0
       },
       "status" : "passed",
@@ -143,8 +143,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Browse and book tours and activities so incredible, you’ll want to tell your friends.",
       "time" : {
-        "start" : 1649214207679,
-        "stop" : 1649214207679,
+        "start" : 1649215077650,
+        "stop" : 1649215077650,
         "duration" : 0
       },
       "status" : "passed",
@@ -158,8 +158,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Quality at our core",
       "time" : {
-        "start" : 1649214207793,
-        "stop" : 1649214207793,
+        "start" : 1649215077771,
+        "stop" : 1649215077771,
         "duration" : 0
       },
       "status" : "passed",
@@ -173,8 +173,8 @@
     }, {
       "name" : "inner text of the DOM-element is : High quality standards. Millions of reviews. A Tripadvisor company.",
       "time" : {
-        "start" : 1649214207922,
-        "stop" : 1649214207922,
+        "start" : 1649215077973,
+        "stop" : 1649215077973,
         "duration" : 0
       },
       "status" : "passed",
@@ -188,8 +188,8 @@
     }, {
       "name" : "inner text of the DOM-element is : Award-winning support",
       "time" : {
-        "start" : 1649214208014,
-        "stop" : 1649214208014,
+        "start" : 1649215078089,
+        "stop" : 1649215078089,
         "duration" : 0
       },
       "status" : "passed",
@@ -203,8 +203,8 @@
     }, {
       "name" : "inner text of the DOM-element is : New price? New plan? No problem. We’re here to help, 24/7.",
       "time" : {
-        "start" : 1649214208119,
-        "stop" : 1649214208119,
+        "start" : 1649215078218,
+        "stop" : 1649215078218,
         "duration" : 0
       },
       "status" : "passed",
@@ -217,23 +217,23 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "1b31342f61b4bdf4",
+      "uid" : "6e65f7ae7473cc0c",
       "name" : "Screenshot",
-      "source" : "1b31342f61b4bdf4.png",
+      "source" : "6e65f7ae7473cc0c.png",
       "type" : "image/png",
-      "size" : 1096039
+      "size" : 1098512
     }, {
-      "uid" : "2f54341f5de634ed",
+      "uid" : "3aa8b6ac7ee91b3c",
       "name" : "Screenshot",
-      "source" : "2f54341f5de634ed.png",
+      "source" : "3aa8b6ac7ee91b3c.png",
       "type" : "image/png",
       "size" : 1374818
     }, {
-      "uid" : "3615066afcf25f87",
+      "uid" : "ac6f30d09b6c3371",
       "name" : "Execution video",
-      "source" : "3615066afcf25f87.mp4",
+      "source" : "ac6f30d09b6c3371.mp4",
       "type" : "video/mp4",
-      "size" : 151213
+      "size" : 151822
     } ],
     "parameters" : [ ],
     "stepsCount" : 13,
@@ -313,6 +313,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d21fc29535cdd7df.json",
+  "source" : "8f18deff46045619.json",
   "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
 }
